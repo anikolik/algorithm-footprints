@@ -1,0 +1,16 @@
+feature_name,feature_importance,rank
+ela_level.mmce_lda_50,0.1678324994129187,1
+ela_level.qda_mda_50,0.15884563799813486,2
+ela_meta.lin_w_interact.adj_r2,0.15100567923240693,3
+ela_meta.quad_simple.adj_r2,0.11423633102954296,4
+ic.eps.s,0.11371673501765966,5
+ela_level.lda_qda_10,0.10691192019115754,6
+ela_level.qda_mda_10,0.09476894508537896,7
+ela_level.mmce_mda_25,0.09207668663676566,8
+pca.expl_var.cor_init,0.07521024594039666,9
+ic.eps.ratio,0.07461296233257031,10
+ela_meta.lin_simple.adj_r2,0.05703975323469038,11
+ela_level.lda_mda_10,0.04952739504186109,12
+ic.h.max,0.03384593605007998,13
+ela_level.mmce_qda_50,0.03310540952525597,14
+pca.expl_var_PC1.cov_init,0.022372954756177007,15

@@ -1,0 +1,6 @@
+leaf_size,n_neighbors,weights,fold_number
+5,2,uniform,1
+5,2,uniform,2
+5,2,uniform,3
+5,2,uniform,4
+5,2,uniform,5

@@ -1,0 +1,16 @@
+feature_name,feature_importance,rank
+ic.eps.max,0.4368905854224751,1
+ela_meta.lin_simple.coef.min,0.38260146792535626,2
+ela_meta.quad_w_interact.adj_r2,0.15822401073321954,3
+ic.eps.ratio,0.08516479579453011,4
+ela_level.qda_mda_10,0.050520411281366,5
+ela_distr.kurtosis,0.040673870550092875,6
+nbc.dist_ratio.coeff_var,0.03762840842450243,7
+nbc.nn_nb.mean_ratio,0.03527939330189295,8
+ela_meta.lin_simple.intercept,0.030393789824490054,9
+ic.eps.s,0.027335059821781946,10
+ela_level.mmce_qda_25,0.02305396715271985,11
+ela_level.lda_mda_10,0.022851074963334526,12
+ic.m0,0.02203374027030838,13
+ela_level.lda_qda_10,0.021892602072913506,14
+ela_level.mmce_lda_25,0.021689785497133116,15

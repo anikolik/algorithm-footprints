@@ -1,0 +1,6 @@
+C,gamma,kernel,fold_number
+8,auto,rbf,1
+16,scale,rbf,2
+16,auto,rbf,3
+16,scale,rbf,4
+16,auto,rbf,5

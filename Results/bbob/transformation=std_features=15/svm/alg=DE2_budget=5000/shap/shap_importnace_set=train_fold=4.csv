@@ -1,0 +1,16 @@
+feature_name,feature_importance,rank
+pca.expl_var_PC1.cor_init,0.2986158477915301,1
+ic.eps.ratio,0.24765108089199805,2
+ic.eps.s,0.2463742823832562,3
+nbc.nb_fitness.cor,0.21218608539294037,4
+nbc.nn_nb.sd_ratio,0.17136528903823567,5
+ela_level.mmce_lda_25,0.14449212172585604,6
+ela_meta.quad_simple.adj_r2,0.12823643278996513,7
+ic.h.max,0.1258878713842674,8
+ela_meta.lin_simple.coef.max_by_min,0.09105778366149485,9
+ic.eps.max,0.08610012595723876,10
+ela_level.mmce_lda_10,0.08599170340285302,11
+ela_level.mmce_mda_10,0.07588644154306051,12
+ela_level.lda_mda_25,0.06817632665315615,13
+ela_level.lda_qda_25,0.06374179985398852,14
+ela_distr.kurtosis,0.060852860184249465,15
